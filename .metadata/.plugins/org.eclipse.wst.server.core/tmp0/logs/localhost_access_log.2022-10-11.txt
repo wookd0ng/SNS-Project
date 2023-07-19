@@ -1,0 +1,10 @@
+127.0.0.1 - - [11/Oct/2022:17:43:19 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:17:43:20 +0900] "GET /Hello/input.html HTTP/1.1" 200 274
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:17:44:16 +0900] "GET /Hello/color.jsp?select=green HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:17:46:34 +0900] "GET /Hello/WEB-INF/color.html HTTP/1.1" 404 721
+127.0.0.1 - - [11/Oct/2022:17:49:02 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:17:49:02 +0900] "GET /Hello/input.html HTTP/1.1" 200 274
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:17:49:53 +0900] "GET /Hello/color.jsp?select=Green HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:17:50:24 +0900] "GET /Hello/color.jsp?select=Green HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:17:54:06 +0900] "GET /Hello/input.html HTTP/1.1" 200 432
+0:0:0:0:0:0:0:1 - - [11/Oct/2022:18:11:03 +0900] "GET /Hello/input.html HTTP/1.1" 200 537
